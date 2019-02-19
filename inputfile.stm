@@ -8,14 +8,7 @@ Your ticket number is
 
 [magnify: width 3; height 2]{{ticketNumber}}[magnify]
 
-[align: centre]\
-[barcode: type code39;
-          data 123456789012;
-          height 15mm;
-          module 0;
-          hri]
-[align]\
-You have been placed in {{queueName}}\n
+You have been placed in {{queueName}}\
 You will be seen shortly.
 
 [align: right]
