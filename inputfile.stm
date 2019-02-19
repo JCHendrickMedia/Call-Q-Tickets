@@ -8,7 +8,7 @@ Your ticket number is
 
 [magnify: width 3; height 2]{{ticketNumber}}[magnify]
 
-You have been placed in {{queueName}}\
+You have been placed in {{queueName}}
 You will be seen shortly.
 
 [align: right]
