@@ -1,24 +1,19 @@
 [align: centre][font: a]\
-[image: url https://raw.githubusercontent.com/JCHendrickMedia/Call-Q-Tickets/master/ArnottsLogoBlackText.png;
+[image: url https://raw.githubusercontent.com/JCHendrickMedia/Call-Q-Tickets/master/jchlogo-mono-tiny.png;
         width 60%;
         min-width 48mm]\
 [magnify: width 2; height 1]
 
-Welcome to
+Welcome to {{branchName}}
 [magnify: width 3; height 2]{{queueName}}[magnify]
 Your ticket number is
 
 [magnify: width 5; height 4]{{ticketNumber}}[magnify]
-Please ensure you have received your first text
-with your ticket number
 
-Dear Customers, at busy periods the queue
-may be up to 6 hours
-
-Keep an eye on your phone we will text you when
-your turn to meet Santa is approaching
+To register your interest for
+Queue Management Solutions
+email: gavin@jchendrick.com
+Phone: 01 296 6260
 
 [align: right]
 {{date}}
-
-[cut: feed; partial]
