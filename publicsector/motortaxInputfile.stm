@@ -7,8 +7,9 @@
 Welcome to
 [magnify: width 3; height 2]{{queueName}}[magnify]
 Your ticket number is
-
 [magnify: width 5; height 4]{{ticketNumber}}[magnify]
+There are [magnify: width 5; height 4]{{ticketWaiting}}[magnify] tickets currently waiting
+
 Please ensure you have received your first text
 with your ticket number
 
