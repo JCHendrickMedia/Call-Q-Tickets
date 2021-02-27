@@ -9,12 +9,13 @@ Welcome to
 Your ticket number is
 
 [magnify: width 5; height 4]{{ticketNumber}}[magnify]
-Please ensure you have received your first text
-with your ticket number
+Please wait to be called.
 
-CUH ED message
-
-[align: right]
+[align: centre]
+Date            Time 
 {{date}}
+
+[align: centre]
+https://cuh.hse.ie
 
 [cut: feed; partial]
